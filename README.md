@@ -9,16 +9,6 @@ A YouTube clone built using React ⚛️, Material UI 🖌️, and the YouTube v
 - **Search**: Find channels, videos, and content creators using the search feature 🔍. Get relevant results based on your search queries 🔎.
 - **Video Page**: Watch videos in an immersive player 🎞️. Enjoy a seamless playback experience and explore related videos on the side 📺.
 
-## Screenshots 📷
-
-| Main Feed Page | Channel Page |
-| :---: | :---: |
-| ![Main Feed](https://github.com/VedantSharma11/Video-App/assets/96445392/01eb0786-d223-48b0-9e26-cf854d520a80) | ![Channel](https://github.com/VedantSharma11/Video-App/assets/96445392/fdbee20d-5c20-479e-abda-3290400ce4dd) |
-
-| Search Page | Video Page |
-| :---: | :---: |
-| ![Search](https://github.com/VedantSharma11/Video-App/assets/96445392/3d4aafb6-ebcb-42b7-9e72-ca6b407ede0c) | ![Video](https://github.com/VedantSharma11/Video-App/assets/96445392/fdf5ebe9-f5ff-4bc0-a6d6-19a90844c0c0) |
-
 ## Installation 🛠️
 
 Follow these steps to set up the project locally:
