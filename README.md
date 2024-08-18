@@ -27,9 +27,7 @@ Follow these steps to set up the project locally:
 1. Start the development server: `npm start`
 2. Open the app in your browser: `http://localhost:3000`
 
-## License 📄
 
-This project is licensed under the [MIT License](LICENSE).
 
 
 
